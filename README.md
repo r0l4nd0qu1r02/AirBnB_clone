@@ -4,7 +4,7 @@
 
 - **Solution:** Rolando Quiroz [rolandoquiroz@gmail.com](rolandoquiroz@gmail.com) [@rolandoquiroz](https://github.com/rolandoquiroz)
 - **Problem statement:** Guillaume Salva
-![hbnb](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png "hbnb")
+![hbnb](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20211112%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211112T002731Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=f57240c4ae897be581c1e52ca130d992914a0bfe0eaabe35e6fb5d4ee53f574a "hbnb")
 ## Learning Objectives
 ----------------------
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/2021/02/feynman-learning-technique/ "explain to anyone"), **without the help of Google**:
